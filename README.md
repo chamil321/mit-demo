@@ -84,6 +84,7 @@ curl -v http://0.0.0.0:9090/service1/newResource
 {"task":"writing services", "org":"mit"}
 ```
 ## Writing your own client
+https://github.com/ldclakmal/module-shoutout
 https://github.com/ldclakmal/ballerina-samples
 
 ## Download NATS here
